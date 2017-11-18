@@ -524,6 +524,11 @@ footer {
   letter-spacing: 0px;
 }
 
+.header-info {
+  bottom: 120px;
+}
+
+
 #be-the-first { 
       background-attachment: scroll;
   }
@@ -537,7 +542,9 @@ footer {
 #be-the-first { 
       background-attachment: scroll;
   }
-
+.header-info {
+      bottom: 100px;
+  }
 }
 
 
